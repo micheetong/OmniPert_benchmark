@@ -1,2 +1,7 @@
-# OmniPert_benchmark
-Benchmarking repo for OmniPert
+# Benchmarking Perturbation Models 
+
+## Models
+- linear model (LM)
+- GEARS
+- scGPT
+- OmniPert
